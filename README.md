@@ -18,10 +18,11 @@ TPofaqYKB5Cs7eivLZkw6X51JcC4PobP11
 
 ## Швы миров
 
-Архив игры для Windows лежит в разделе [Releases](https://github.com/gasinovanvik/druid-games/releases).
+Архивы игры для Windows и Mac лежат в разделе [Releases](https://github.com/gasinovanvik/druid-games/releases).
 
-Контрольная сумма SHA-256 архива `Worldstitch_v0.15.0_win64.zip`:
+Контрольные суммы SHA-256:
 
 ```text
-B00B181FC5BD7F0C9A5FFF7CCB20F14D93C74A7794A594CAB932B0762DA053A6
+Windows  B00B181FC5BD7F0C9A5FFF7CCB20F14D93C74A7794A594CAB932B0762DA053A6
+macOS    2C98C1D216891CDB7E079F7071BCFC4B1844324B3E72B544BB48BC11D62F959F
 ```
